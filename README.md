@@ -5,6 +5,7 @@ INSTRUCTIONS
 1. Download the repository
 2. npm install
 3. npm run dev
+4. In your browser go to the url displayed in the terminal
 
 PLAN AND APPROACH
 
