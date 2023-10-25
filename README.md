@@ -15,7 +15,7 @@ PLAN AND APPROACH
 5. Convert the number of interactions for each sector to percentage
 6. Pass restructured data to the Chart component
 
-7. Identify the start and end date from the data and set as defaul values in the date picker
+7. Identify the start and end date from the data and set as default values in the date picker
 8. Filter the data based on the updated start and end date selected through the date picker
 
 FUTURE PLANS
