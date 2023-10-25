@@ -1,0 +1,57 @@
+#root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+  background-color: #11375e;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #66cccc;
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+button:hover {
+  background-color: #229e9e;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  background-color: white;
+}
+
+.custom-tooltip {
+  background-color: rgba(255, 255, 255, 0.8);
+  line-height: 0.5em;
+  font-size: 0.8em;
+  padding: 0.2rem;
+  border-radius: 0.8rem;
+}
+
+.date-picker {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
