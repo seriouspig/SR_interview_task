@@ -1,4 +1,4 @@
-Interview Task for Substantive Research 
+# Interview Task for Substantive Research 
 
 INSTRUCTIONS
 
@@ -23,4 +23,4 @@ FUTURE PLANS
 1. Add a choice of chart/graph type
 2. Add timeline graph
 3. Add an export as csv file
-# SR_interview_task
+
